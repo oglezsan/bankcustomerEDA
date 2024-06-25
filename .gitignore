@@ -1,11 +1,7 @@
-# Ignore the virtual environment folder
-venv3/
 
-# Ignore Python byte-compiled files
+venv3/
 __pycache__/
 *.pyc
-
-# Ignore other files that should not be in the repo
-.DS_Store          # macOS folder metadata
-.idea/             # Project settings for JetBrains IDEs
-*.log              # Log files
+.DS_Store
+.idea/
+*.log
